@@ -71,14 +71,7 @@ button {
   );
 }
 a.share-link {
-  background-image: linear-gradient(
-    to right,
-    rgb(233, 121, 57),
-    rgb(236, 72, 100),
-    rgb(239, 16, 102)
-  );
-
-  color: transparent;
+  margin-left: 1rem;
 }
 /* heading section  */
 .left-item {
